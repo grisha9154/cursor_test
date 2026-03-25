@@ -1,3 +1,3 @@
 # cursor_test
 
-Best App
+Best App 2
